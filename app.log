@@ -1,0 +1,3 @@
+2024-04-21 19:33:23,189 - root - INFO - Function divide executed successfully.
+2024-04-21 19:33:23,189 - root - ERROR - Function divide failed with error: division by zero.
+2024-04-21 19:33:23,189 - root - ERROR - Failed parameters: args=(10, 0), kwargs={}
